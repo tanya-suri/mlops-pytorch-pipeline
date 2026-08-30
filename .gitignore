@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+
+# Data and Checkpoints
+data/
+checkpoints/
+*.pt
+*.pth
+
+# IDEs
+.vscode/
+.idea/
+.DS_Store
